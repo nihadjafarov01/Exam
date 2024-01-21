@@ -63,6 +63,7 @@
                                                id="exampleRepeatPassword" placeholder="Repeat Password">
                                         <span class="text-danger" asp-validation-for="ConfirmPassword"></span>
                                     </div>
+                                    <div class="text-danger" asp-validation-summary="ModelOnly"></div>
                                 </div>
                                 <button type="submit" asp-action="Register" class="btn btn-primary btn-user btn-block">
                                     Register Account

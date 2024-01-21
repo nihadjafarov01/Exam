@@ -1,8 +1,5 @@
+using Exam.Business;
 using Exam.Business.Profiles;
-using Exam.Business.Repositories.Implements;
-using Exam.Business.Repositories.Interfaces;
-using Exam.Business.Services.Implements;
-using Exam.Business.Services.Interfaces;
 using Exam.DAL.Contexts;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
@@ -37,7 +34,7 @@ namespace Exam
 
             builder.Services.ConfigureApplicationCookie(opt =>
             {
-                opt.AccessDeniedPath = "/auth/AccessDeniedPath";
+                opt.AccessDeniedPath = "/auth/AccessDenied";
                 opt.LogoutPath = "/auth/logout";
                 opt.LoginPath = "/auth/Login";
 
@@ -47,18 +44,11 @@ namespace Exam
                 opt.SlidingExpiration = true;
             });
 
-            builder.Services.AddScoped<IMemberRepository, MemberRepository>();
-            builder.Services.AddScoped<ISettingRepository, SettingRepository>();
+            builder.Services.AddRepositories();
 
-            builder.Services.AddScoped<IMemberService, MemberService>();
-            builder.Services.AddScoped<IAuthService, AuthService>();
-            builder.Services.AddScoped<ISettingService, SettingService>();
+            builder.Services.AddServices();
 
-            builder.Services.AddAutoMapper(opt =>
-            {
-                opt.AddProfile(new MemberMappingProfile(builder.Environment.WebRootPath));
-                opt.AddProfile<SettingMappingProfile>();
-            });
+            builder.Services.AddMappers(builder.Environment.WebRootPath);
 
             var app = builder.Build();
 

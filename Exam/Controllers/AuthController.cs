@@ -66,5 +66,10 @@ namespace Exam.Controllers
         {
             return await _service.CreateInits();
         }
+        public IActionResult AccessDenied()
+        {
+            return View();
+        }
+        
     }
 }
