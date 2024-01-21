@@ -1,0 +1,17 @@
+C:\Users\Birinci novbe\Desktop\Exam\Exam.Business\bin\Debug\net6.0\Exam.Business.deps.json
+C:\Users\Birinci novbe\Desktop\Exam\Exam.Business\bin\Debug\net6.0\Exam.Business.dll
+C:\Users\Birinci novbe\Desktop\Exam\Exam.Business\bin\Debug\net6.0\Exam.Business.pdb
+C:\Users\Birinci novbe\Desktop\Exam\Exam.Business\bin\Debug\net6.0\Exam.Core.dll
+C:\Users\Birinci novbe\Desktop\Exam\Exam.Business\bin\Debug\net6.0\Exam.DAL.dll
+C:\Users\Birinci novbe\Desktop\Exam\Exam.Business\bin\Debug\net6.0\Exam.DAL.pdb
+C:\Users\Birinci novbe\Desktop\Exam\Exam.Business\bin\Debug\net6.0\Exam.Core.pdb
+C:\Users\Birinci novbe\Desktop\Exam\Exam.Business\obj\Debug\net6.0\Exam.Business.csproj.AssemblyReference.cache
+C:\Users\Birinci novbe\Desktop\Exam\Exam.Business\obj\Debug\net6.0\Exam.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci novbe\Desktop\Exam\Exam.Business\obj\Debug\net6.0\Exam.Business.AssemblyInfoInputs.cache
+C:\Users\Birinci novbe\Desktop\Exam\Exam.Business\obj\Debug\net6.0\Exam.Business.AssemblyInfo.cs
+C:\Users\Birinci novbe\Desktop\Exam\Exam.Business\obj\Debug\net6.0\Exam.Business.csproj.CoreCompileInputs.cache
+C:\Users\Birinci novbe\Desktop\Exam\Exam.Business\obj\Debug\net6.0\Exam.Business.csproj.CopyComplete
+C:\Users\Birinci novbe\Desktop\Exam\Exam.Business\obj\Debug\net6.0\Exam.Business.dll
+C:\Users\Birinci novbe\Desktop\Exam\Exam.Business\obj\Debug\net6.0\refint\Exam.Business.dll
+C:\Users\Birinci novbe\Desktop\Exam\Exam.Business\obj\Debug\net6.0\Exam.Business.pdb
+C:\Users\Birinci novbe\Desktop\Exam\Exam.Business\obj\Debug\net6.0\ref\Exam.Business.dll

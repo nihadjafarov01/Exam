@@ -1,0 +1,11 @@
+C:\Users\Birinci novbe\Desktop\Exam\Exam.Core\bin\Debug\net6.0\Exam.Core.deps.json
+C:\Users\Birinci novbe\Desktop\Exam\Exam.Core\bin\Debug\net6.0\Exam.Core.dll
+C:\Users\Birinci novbe\Desktop\Exam\Exam.Core\bin\Debug\net6.0\Exam.Core.pdb
+C:\Users\Birinci novbe\Desktop\Exam\Exam.Core\obj\Debug\net6.0\Exam.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci novbe\Desktop\Exam\Exam.Core\obj\Debug\net6.0\Exam.Core.AssemblyInfoInputs.cache
+C:\Users\Birinci novbe\Desktop\Exam\Exam.Core\obj\Debug\net6.0\Exam.Core.AssemblyInfo.cs
+C:\Users\Birinci novbe\Desktop\Exam\Exam.Core\obj\Debug\net6.0\Exam.Core.csproj.CoreCompileInputs.cache
+C:\Users\Birinci novbe\Desktop\Exam\Exam.Core\obj\Debug\net6.0\Exam.Core.dll
+C:\Users\Birinci novbe\Desktop\Exam\Exam.Core\obj\Debug\net6.0\refint\Exam.Core.dll
+C:\Users\Birinci novbe\Desktop\Exam\Exam.Core\obj\Debug\net6.0\Exam.Core.pdb
+C:\Users\Birinci novbe\Desktop\Exam\Exam.Core\obj\Debug\net6.0\ref\Exam.Core.dll

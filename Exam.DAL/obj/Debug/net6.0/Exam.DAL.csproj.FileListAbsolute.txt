@@ -1,0 +1,17 @@
+C:\Users\Birinci novbe\Desktop\Exam\Exam.DAL\bin\Debug\net6.0\Exam.DAL.deps.json
+C:\Users\Birinci novbe\Desktop\Exam\Exam.DAL\bin\Debug\net6.0\Exam.DAL.dll
+C:\Users\Birinci novbe\Desktop\Exam\Exam.DAL\bin\Debug\net6.0\Exam.DAL.pdb
+C:\Users\Birinci novbe\Desktop\Exam\Exam.DAL\bin\Debug\net6.0\Exam.Core.dll
+C:\Users\Birinci novbe\Desktop\Exam\Exam.DAL\bin\Debug\net6.0\Exam.Core.pdb
+C:\Users\Birinci novbe\Desktop\Exam\Exam.DAL\obj\Debug\net6.0\Exam.DAL.csproj.AssemblyReference.cache
+C:\Users\Birinci novbe\Desktop\Exam\Exam.DAL\obj\Debug\net6.0\Exam.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci novbe\Desktop\Exam\Exam.DAL\obj\Debug\net6.0\Exam.DAL.AssemblyInfoInputs.cache
+C:\Users\Birinci novbe\Desktop\Exam\Exam.DAL\obj\Debug\net6.0\Exam.DAL.AssemblyInfo.cs
+C:\Users\Birinci novbe\Desktop\Exam\Exam.DAL\obj\Debug\net6.0\Exam.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Birinci novbe\Desktop\Exam\Exam.DAL\obj\Debug\net6.0\Exam.DAL.csproj.CopyComplete
+C:\Users\Birinci novbe\Desktop\Exam\Exam.DAL\obj\Debug\net6.0\Exam.DAL.dll
+C:\Users\Birinci novbe\Desktop\Exam\Exam.DAL\obj\Debug\net6.0\refint\Exam.DAL.dll
+C:\Users\Birinci novbe\Desktop\Exam\Exam.DAL\obj\Debug\net6.0\Exam.DAL.pdb
+C:\Users\Birinci novbe\Desktop\Exam\Exam.DAL\obj\Debug\net6.0\ref\Exam.DAL.dll
+C:\Users\Birinci novbe\Desktop\Exam\Exam.DAL\bin\Debug\net6.0\Exam.DAL.runtimeconfig.json
+C:\Users\Birinci novbe\Desktop\Exam\Exam.DAL\obj\Debug\net6.0\Exam.DAL.genruntimeconfig.cache

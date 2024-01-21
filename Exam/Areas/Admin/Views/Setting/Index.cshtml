@@ -1,0 +1,41 @@
+﻿@model IEnumerable<SettingListItemVM>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Name</th>
+            <th scope="col">Address</th>
+            <th scope="col">PhoneNumber</th>
+            <th scope="col">Email</th>
+            <th scope="col">CreatedTime</th>
+            <th colspan="2" scope="col">Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (!Model.Any())
+        {
+            <tr>
+                <th colspan="10" class="text-center table-danger">No data</th>
+            </tr>
+        }
+        else
+        {
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <th>@item.Id</th>
+                    <th>@item.Name</th>
+                    <th>@item.Address</th>
+                    <th>@item.PhoneNumber</th>
+                    <th>@item.Email</th>
+                    <th>@item.CreatedTime</th>
+                    <th>
+                        <a asp-action="Update" asp-route-id="@item.Id" type="button" class="btn btn-primary">Update</a>
+                    </th>
+                </tr>
+            }
+        }
+
+    </tbody>
+</table>
